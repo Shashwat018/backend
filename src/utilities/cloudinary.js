@@ -8,8 +8,8 @@ import { v2 as cloudinary } from 'cloudinary';
     // Configuration
     cloudinary.config({ 
         cloud_name: 'dsa2cn8v6', 
-        api_key: '345261274534933', 
-        api_secret: 'LEu6RmVkeq95Kn74tKpJLzr4Okk' // Click 'View API Keys' above to copy your API secret
+        api_key: 'XXXXXXXXXXXXXXXXXX', 
+        api_secret: 'XXXXXXXXXXXXXXXXXXXX' // Click 'View API Keys' above to copy your API secret
     });
     
     // Upload an image
